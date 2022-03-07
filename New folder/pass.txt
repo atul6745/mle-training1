@@ -1,0 +1,38 @@
+https://forms.gle/Eo4nRsaPKxmbgCV1A
+n=int(input())
+for _ in range(n):
+    p,q,r,s=map(int,input().split())
+    t=abs(p-r)+abs(q-s)
+    if t:
+        if(t%2==0):
+            print(2)
+        else:
+            print(1)
+    else:
+        print(0)
+
+
+29361
+125
+https://unacademy.com/quiz/computer-science-and-information-technology-mock-test-5/1E7UQAU6CQ
+
+
+Name: Atul Kumar Gupta
+Email-Id:atlkmrgpta26@gmail.com
+Contact No.:7905416745
+College:PSIT-College Of Engineering
+Year: 2022
+Stream:Computer Science and Engineering
+Current role(if any):Graduate Engineer Trainee
+Current organisation(if any): NEC Corporation
+Notice period(if any):No
+Applying for: SDE-INTERN
+LinkedIn profile(if any): https://www.linkedin.com/in/atul-gupta-960942212/
+Resumelink:  https://drive.google.com/file/d/1H7UFelVlBwYHnUUvTrCY-WYvyoorjdlW/view?usp=sharing
+Programming platform profiles(if any):   [ONLY FOR SDE-INTERN]
+codechef:(4 starcoder)https://www.codechef.com/users/atul_123321
+leetcode:  https://leetcode.com/atul790r/
+hackerrank: https:https://www.hackerrank.com/CSE3A_023Atul?hr_r=1
+interviewbit:https://www.interviewbit.com/profile/atul-gupta_720
+lcodeforces: https://codeforces.com/profile/atlkmrgpta790541
+ google drive resume link- https://drive.google.com/drive/folders/1D3QnLh3j86JOUbZutukHSFBzSu1xrA1Z?usp=sharing
